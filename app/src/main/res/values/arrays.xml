@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_type">array</string-array>
+    <string-array name="place_type_name">place_type</string-array>
+</resources>
